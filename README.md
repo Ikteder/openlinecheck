@@ -129,11 +129,3 @@ CI runs on Windows, Linux, and macOS across multiple Python versions.
 ## License
 
 Apache-2.0. Copyright (c) 2026 OpenLineCheck contributors.
-
-## Related Projects
-
-- [Cloudflare speedtest](https://github.com/cloudflare/speedtest) (MIT)
-- [LibreSpeed](https://github.com/librespeed/speedtest) (LGPL-3.0)
-- [Netprobe Lite](https://github.com/plaintextpackets/netprobe_lite)
-
-No affiliation with those projects. Use original branding and comply with upstream endpoint policies.
